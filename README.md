@@ -6,6 +6,6 @@
 ## 📌 Overview
 
 This project is a **simple command-line Todo application** built with **Python** that stores tasks **in memory**.  
-It is designed as **Phase 1** of a multi-phase hackathon project and follows **Spec-Kit Plus–driven development** using **Gemini and Qwen**.
+It is designed as **Phase 1** of a multi-phase hackathon project and follows **Spec-Kit Plus–driven development** using **Gemini**.
 
 The application focuses on **clean architecture**, **readability**, and **foundational backend concepts**.
